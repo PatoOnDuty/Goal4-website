@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "goal4", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "5174", "--directory", "E:/websites/Goal4 website"], "port": 5174 }
+  ]
+}
